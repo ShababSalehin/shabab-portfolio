@@ -906,6 +906,9 @@ section {
   .portfolios {
     grid-template-columns: repeat(1, 1fr);
   }
+  .right-header .btn-con{
+    margin-top: 10px;
+  }
 }
 @media screen and (max-width: 1070px) {
   .about-container {
